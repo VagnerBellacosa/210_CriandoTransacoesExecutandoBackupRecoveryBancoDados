@@ -34,7 +34,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criando Transações, Executando Backup e Recovery de Banco de Dados](https://web.dio.me/lab/criando-transacoes-executando-backup-e-recovery-de-banco-de-dados/learning/792d0ce7-f189-4e90-a191-eaa8f3f5c8d9)[Entendendo o Desafio](https://web.dio.me/lab/criando-transacoes-executando-backup-e-recovery-de-banco-de-dados/learning/3bdbf4c1-d4b5-45a8-90f8-aad880409878)
+- [Criando Transações, Executando Backup e Recovery de Banco de Dados](https://web.dio.me/lab/criando-transacoes-executando-backup-e-recovery-de-banco-de-dados/learning/792d0ce7-f189-4e90-a191-eaa8f3f5c8d9)
+- [Entendendo o Desafio](https://web.dio.me/lab/criando-transacoes-executando-backup-e-recovery-de-banco-de-dados/learning/3bdbf4c1-d4b5-45a8-90f8-aad880409878)
 
 
 
